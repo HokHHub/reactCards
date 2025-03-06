@@ -1,0 +1,30 @@
+footer {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 29px;
+    padding-top: 114px;
+}
+
+.footer-title {
+    padding-top: 114px;
+    color: #070707;
+    text-align: center;
+    font-family: 'Gilroy-Bold';
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+
+.footer-text {
+    color: #070707;
+    text-align: center;
+    font-family: 'Gilroy-Medium';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 20px;
+    margin-bottom: 29px;
+}

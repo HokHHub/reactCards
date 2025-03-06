@@ -1,0 +1,21 @@
+.skill {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: fit-content;
+    height: 217px;
+    justify-content: space-between;
+}
+
+.skill-name {
+    color: #828282;
+    text-align: center;
+    font-family: 'Gilroy-Bold';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 24px;
+    margin-bottom: 40px;
+    max-width: 78.7px;
+}

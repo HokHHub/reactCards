@@ -1,0 +1,18 @@
+.contacts {
+    display: flex;
+    justify-content: center;
+    gap: 61px;
+    margin-bottom: 45px;
+}
+
+.like-text {
+    color: #828282;
+    text-align: center;
+    font-family: 'Gilroy-Medium';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+    padding-bottom: 123px;
+}

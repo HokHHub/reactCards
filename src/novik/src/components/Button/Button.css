@@ -1,0 +1,13 @@
+.button {
+    cursor: pointer;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Gilroy-Bold';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 30px;
+    background-color: #070707;
+    margin-bottom: 85px;
+}

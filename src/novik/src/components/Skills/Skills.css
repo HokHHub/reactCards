@@ -1,0 +1,30 @@
+.skills-text {
+    color: #070707;
+    text-align: center;
+    font-family: 'Gilroy-Medium';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 69px;
+    margin-bottom: 0;
+}
+
+.skills-all {
+    display: flex;
+    gap: 90px;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 29px;
+    margin-top: 84px;
+    padding-bottom: 110px;
+    align-items: flex-end;
+
+}
+
+.skills {
+    max-width: 940px;
+    padding: 0 29px;
+    margin: 0 auto;
+    padding-top: 91px;
+}

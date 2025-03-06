@@ -1,0 +1,30 @@
+.portfolio {
+    background: #F6F6F6;
+    padding-top: 112px;
+}
+
+.portfolio-all {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.portfolio-title {
+    padding-top: 112px;
+    padding-bottom: 47px;
+    color: #070707;
+    text-align: center;
+    font-family: 'Gilroy-Bold';
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+
+.portfolio-cards {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 96px;
+    gap: 99px;
+    margin-top: 47px;
+}

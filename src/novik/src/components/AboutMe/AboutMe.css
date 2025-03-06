@@ -1,0 +1,30 @@
+.about {
+    width: 100%;
+    background: #F6F6F6;
+}
+
+.about-all {
+    padding: 0 29px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.about-text {
+    color: #070707;
+    text-align: center;
+    font-family: 'Gilroy-Medium';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+
+.about-texts {
+    max-width: 485px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    gap: 40px;
+    padding-bottom: 107px;
+}

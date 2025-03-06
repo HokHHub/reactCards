@@ -1,0 +1,28 @@
+.list {
+    padding: 0;
+    padding-top: 33px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Gilroy-Bold';
+    list-style: none;
+    margin: 0;
+    margin-bottom: 32px;
+}
+
+.list-text {
+    color: #828282;
+    cursor: pointer;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.list-text:hover {
+    color: #070707;
+}
+
+.list-hr {
+    width: 100%;
+    height: 0px;
+    margin: 0;
+    flex-shrink: 0;
+}
