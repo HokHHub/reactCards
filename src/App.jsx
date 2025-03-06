@@ -1,7 +1,6 @@
 import { createContext } from 'react'
 import './App.css'
 import FirstSection from './components/FirstSection/FirstSection'
-import data from './data/data.json'
 export const MainContext = createContext()
 export const SecondaryContext = createContext()
 
